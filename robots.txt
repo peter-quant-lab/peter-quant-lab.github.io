@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://peter-quant-lab.github.io/sitemap.xml
