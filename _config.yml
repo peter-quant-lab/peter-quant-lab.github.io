@@ -15,7 +15,7 @@ title: Peter's Quant Lab
 tagline: 이야기와 숫자로 찾는 저평가 가치주
 
 description: >-
-  피터린치 스타일 가치투자 연구소. 네러티브로 발굴하고, 숫자로 검증한다.
+  AI 기반 가치투자 연구소. 네러티브로 발굴하고, 숫자로 검증한다.
 
 url: "https://peter-quant-lab.github.io"
 
@@ -23,7 +23,7 @@ github:
   username: peter-quant-lab
 
 social:
-  name: Peter Lynch (피터린치)
+  name: 피터 (Peter)
   email: peter@quant-lab.io
   links:
     - https://github.com/peter-quant-lab
